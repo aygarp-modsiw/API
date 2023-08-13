@@ -1,8 +1,10 @@
 # Application Programming Interface (API)
 
+![API](https://github.com/pragyaasapkota/Portfolio/raw/master/Images/API.jpg)
+
 Application Programming Interface is an architectural style that defines the rules over which the web services are to be created.
 
-This is a index for the blogs related to API concepts.
+This is an index for blogs related to API concepts.
 
 If you wish to open these in a new tab, Press `CTRL+click`
 
